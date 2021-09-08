@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @rahularya815
-- 👀 I’m interested in python,c and machine learning
+- 👋 Hi, I’m Rahul Verma, a passionate and quick learner and self taught full stack developer. I love to gain hands on something new. 
+- 👀 I’m interested in python,c and machine learning.
 - 🌱 I’m currently learning Android development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me rahularya815@gmail.com
+- 📫 Reach me at rahularya815@gmail.com
 
 <!---
 rahularya815/rahularya815 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
