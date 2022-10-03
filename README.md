@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahul Verma, a passionate and quick learner and self taught full stack developer. I love to gain hands on something new. 
-- 👀 I’m interested in python,c and machine learning.
+- 👀 I’m interested in python,c++ and machine learning.
 - 🌱 I’m currently learning Android development
 - 📫 Reach me at rahularya815@gmail.com
 
