@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rahul Verma, a passionate and quick learner and self taught Spring developer.  
+- 👋 Hi, I’m Rahul Verma, a passionate and quick learner and a self taught Spring developer.  
 - 👀 I’m interested in python,c++ and machine learning.
 - 📫 Reach me at rahularya815@gmail.com
 
